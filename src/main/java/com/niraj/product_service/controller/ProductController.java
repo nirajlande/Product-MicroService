@@ -2,7 +2,6 @@ package com.niraj.product_service.controller;
 
 import com.niraj.product_service.dto.ProductRequest;
 import com.niraj.product_service.dto.ProductResponse;
-import com.niraj.product_service.model.Product;
 import com.niraj.product_service.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
